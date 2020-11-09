@@ -6,3 +6,6 @@ console.table({sonu:'Pandey',dharm:'Sharma'});
 console.warn('THis is warning');
 // console.clear();
 console.timeEnd('time taken');
+console.assert(45<10, 'this is false');
+
+console.error('this is an error');
